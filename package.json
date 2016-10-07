@@ -1,0 +1,23 @@
+{
+  "name": "pictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenyonBlue/pictionary.git"
+  },
+  "author": "KenyonBlue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenyonBlue/pictionary/issues"
+  },
+  "homepage": "https://github.com/KenyonBlue/pictionary#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.0"
+  }
+}
